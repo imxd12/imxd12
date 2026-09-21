@@ -355,7 +355,16 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 </div>
 
-<img src="https://streak-stats.demolab.com/?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<div align="center">
+
+<a href="https://github.com/imxd12">
+
+<img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily&type=svg" alt="GitHub Streak Stats" width="495"/>
+
+</a>
+
+</div>
+
 
 </div>
 
