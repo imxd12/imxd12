@@ -23,7 +23,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <a href="https://github.com/imxd12">
 <img src="https://img.shields.io/badge/GITHUB-IMXD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1e293b" alt="GitHub"/>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617&color=0891b2" alt="Email"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VISITORS&color=06b6d4&style=flat-square" alt="Profile views"/>
 
