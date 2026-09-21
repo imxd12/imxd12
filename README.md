@@ -21,17 +21,7 @@
 
 <br>
 
-<sub>
-  <b>AI • ROBOTICS • AUTOMATION • CODER</b>
-</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-0f172a?style=flat-square&labelColor=020617&color=38BDF8"/>
-<img src="https://img.shields.io/badge/MINDSET-BUILD%20%26%20EVOLVE-0f172a?style=flat-square&labelColor=020617&color=06B6D4"/>
-
 </div>
-
 
 <br><br>
 
