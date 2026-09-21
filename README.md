@@ -12,8 +12,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,75:1e3a8a,100:06b6d4&height=280&section=header&text=IMAD%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20ROBOTICS%20%7C%20AUTOMATION%20%7C%20CODER&descAlignY=61&descSize=16" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&height=45&lines=Turning+Curiosity+Into+Creation;Building+With+Purpose+And+Precision;Code+That+Thinks%2C+Systems+That+Move;Learning+Today%2C+Engineering+Tomorrow;Ideas+Are+The+Beginning%2C+Execution+Is+The+Difference;Exploring+Technology+Beyond+The+Ordinary;Designing+Solutions%2C+One+Iteration+At+A+Time;Think+Different+%7C+Build+Better" alt="Professional identity"/>
 
+<br>
 
 <div align="center">
 
