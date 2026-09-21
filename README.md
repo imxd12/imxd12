@@ -14,9 +14,6 @@
 
 <br>
 
-<!-- LETTER-BY-LETTER IDENTITY ANIMATION -->
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=45&lines=Engineering+Intelligence+Into+Reality;Building+Ideas+Into+Working+Systems;AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AUTOMATION+%E2%80%A2+CODER" alt="Professional identity"/>
 
 <br><br>
