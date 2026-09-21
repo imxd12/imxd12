@@ -1,44 +1,122 @@
 
-<!-- =========================================================
-     IMXD | PREMIUM ENGINEERING PROFILE
-     AI • ROBOTICS • SOFTWARE • INNOVATION
-========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════
+     IMXD | FUTURISTIC AI & ROBOTICS HERO
+═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1e3a8a,100:0284c7&height=250&section=header&text=IMXD&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20INTO%20REALITY&descAlignY=63&descSize=14" width="100%"/>
+<!-- PREMIUM HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e40af,100:06b6d4&height=280&section=header&text=IMXD&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20ROBOTICS%20%7C%20AUTOMATION&descAlignY=61&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Electrical+%26+Computer+Engineering+Student;Automation+%26+Robotics+Background;AI+%7C+Computer+Vision+%7C+Embedded+Systems;Building+Ideas+Into+Intelligent+Solutions;Welcome+to+the+IMXD+Engineering+Lab" alt="Animated introduction"/>
+<!-- STATUS BADGE -->
+
+<img src="https://img.shields.io/badge/●%20SYSTEM%20ONLINE-38BDF8?style=for-the-badge&labelColor=020617&color=0f172a" alt="System online"/>
 
 <br><br>
+
+<!-- ANIMATED IDENTITY -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=780&height=100&lines=Electrical+%26+Computer+Engineering;Automation+%26+Robotics+Engineer+in+Progress;AI+%7C+Computer+Vision+%7C+Embedded+Systems;Building+Intelligent+Solutions+for+Real+Problems;Welcome+to+the+IMXD+Engineering+Lab" alt="IMXD animated identity"/>
+
+<br><br>
+
+<!-- INTRO -->
+
+<em>Engineering intelligence into reality.</em>
+
+<br>
+
+<sub>Exploring the intersection of AI, robotics, automation, and software.</sub>
+
+<br><br>
+
+<!-- SOCIAL ACTIONS -->
 
 <a href="https://github.com/imxd12">
-<img src="https://img.shields.io/badge/PROFILE-IMXD-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GITHUB-IMXD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1e293b" alt="GitHub"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/imad-khan-37aa9630a">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617&color=1e40af" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:imadak999@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617&color=0891b2" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VISITORS&color=0ea5e9&style=for-the-badge" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VISITORS&color=06b6d4&style=for-the-badge" alt="Profile visitors"/>
+
+<br><br>
 
 </div>
 
 ---
 
+<!-- DIGITAL WORKSPACE -->
+
 <div align="center">
 
-## `WELCOME TO MY DIGITAL WORKSPACE`
+<h2>◈ WELCOME TO MY DIGITAL WORKSPACE ◈</h2>
 
-**AI • ROBOTICS • AUTOMATION • SOFTWARE ENGINEERING**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+IMPROVE;FROM+ENGINEERING+CONCEPTS+TO+WORKING+SYSTEMS;CREATING+THE+NEXT+POSSIBILITY" alt="Workspace animation"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🤖
+
+**AI & ROBOTICS**
+
+<sub>Intelligent systems<br>Automation & control</sub>
+
+</td>
+<td align="center" width="33%">
+
+### ⚡
+
+**ENGINEERING**
+
+<sub>Electrical & Computer<br>Embedded technologies</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 💻
+
+**SOFTWARE**
+
+<sub>Web applications<br>Practical solutions</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<blockquote>
+
+**Hi, I'm Imad Khan — IMXD.**
+
+Electrical & Computer Engineering student with a foundation in Automation & Robotics, passionate about exploring AI, developing software, and building intelligent systems.
+
+</blockquote>
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-0f172a?style=flat-square&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/FOCUS-ROBOTICS-0f172a?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-INNOVATION-0f172a?style=flat-square"/>
 
 </div>
+
 
 I'm **Imad Khan**, known as **IMXD** — an Electrical & Computer Engineering student with a Diploma in Automation & Robotics.
 
