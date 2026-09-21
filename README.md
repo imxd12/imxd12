@@ -15,9 +15,6 @@
 <br>
 
 <!-- LETTER-BY-LETTER IDENTITY ANIMATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=700&pause=350&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=I;IM;IMA;IMAD;IMAD+K;IMAD+KH;IMAD+KHA;IMAD+KHAN;IMAD+KHAN+%7C+CODER" alt="IMAD KHAN letter animation"/>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=45&lines=Engineering+Intelligence+Into+Reality;Building+Ideas+Into+Working+Systems;AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AUTOMATION+%E2%80%A2+CODER" alt="Professional identity"/>
