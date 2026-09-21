@@ -347,9 +347,11 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=1800" alt="GitHub Statistics" width="495"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=1800" width="49%" alt="Top Languages"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=1800" alt="Top Languages" width="350"/>
 
 </div>
 
