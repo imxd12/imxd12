@@ -347,13 +347,6 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 <div align="center">
 
-<!-- GitHub Profile Overview -->
-<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=300" alt="GitHub Statistics" width="495"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=300" alt="Top Programming Languages" width="350"/>
-
-<br/><br/>
-
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily" alt="GitHub Contribution Streak" width="495"/>
 
@@ -373,11 +366,6 @@ STATUS: LEARNING • BUILDING • ITERATING
 <img src="https://raw.githubusercontent.com/imxd12/imxd12/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="95%"/>
 
 <br/><br/>
-
-<!-- Profile Views and Followers -->
-<img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/imxd12?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117" alt="GitHub Followers"/>
 
 </div>
 
