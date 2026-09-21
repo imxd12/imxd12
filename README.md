@@ -239,10 +239,10 @@ Mindset    : Build • Learn • Improve
 - JavaScript, HTML & CSS
 - AI and Machine Learning fundamentals
 - Computer Vision
-- Flask application development
 - Arduino, ESP8266 & ESP32
 - Raspberry Pi and sensor integration
 - Git & GitHub
+- PLC / SCADA Programming
 
 ---
 
@@ -271,14 +271,20 @@ Palash Mitra AI is my featured project section. Add the verified project descrip
 | :--- | :--- |
 | Name | Palash Mitra AI |
 | Category | Artificial Intelligence |
-| Developer | IMAD KHAN — IMXD |
+| Developer | IMAD KHAN — IMXD & TEAM |
 | Status | Update with actual status |
 
 </div>
 
 ### Project Overview
 
-> Replace this paragraph with the actual purpose of Palash Mitra AI, the problem it solves, and its main capabilities.
+Palash Mitra is an AI-powered educational platform designed to break language barriers in rural and tribal schools.
+It translates Hindi lessons into tribal languages such as Ho, Mundari, and Santhali, providing:
+- Real-time voice translation
+- Bilingual learning materials
+- Offline functionality
+- Native-language audio support
+- Interactive educational content
 
 ### Key Features
 
