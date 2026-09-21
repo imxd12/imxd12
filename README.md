@@ -350,22 +350,7 @@ STATUS: LEARNING • BUILDING • ITERATING
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily" alt="GitHub Contribution Streak" width="495"/>
 
-<br/><br/>
-
-<!-- GitHub Profile Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=imxd12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" width="800"/>
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imxd12&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=IMXD%27s%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" width="95%"/>
-
-<br/><br/>
-
-<!-- GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/imxd12/imxd12/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="95%"/>
-
-<br/><br/>
+<br/>
 
 </div>
 
