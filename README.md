@@ -69,7 +69,7 @@ I believe engineering is more than writing code or assembling hardware. It's abo
 ### 🎓 Education
 
 - Pursuing B.E. in Electrical & Computer Engineering.
-- Completed Diploma in Automation & Robotics with 73%.
+- Completed Diploma in Automation & Robotics.
 - Developing skills across software engineering, AI, and embedded systems.
 
 ### 🧠 What interests me
