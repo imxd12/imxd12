@@ -178,27 +178,58 @@ Mindset    : Build • Learn • Improve
 
 <div align="center">
 
-### Programming
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
 
 <br><br>
 
-### AI & Computer Vision
+### 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and computer vision"/>
 
 <br><br>
 
-### Embedded & Robotics
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" alt="Web development technologies"/>
 
 <br><br>
 
-### Frameworks & Tools
+### ⚙️ RPA & Industrial Automation
 
-<img src="https://skillicons.dev/icons?i=flask,firebase,git,github,vscode" alt="Frameworks and tools"/>
+<img src="https://skillicons.dev/icons?i=python" alt="RPA and automation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/PLC-Industrial%20Control-orange?style=for-the-badge" alt="PLC"/>
+<img src="https://img.shields.io/badge/SCADA-Industrial%20Monitoring-blue?style=for-the-badge" alt="SCADA"/>
+<img src="https://img.shields.io/badge/RPA-Process%20Automation-purple?style=for-the-badge" alt="RPA"/>
+
+<br><br>
+
+### 🔌 Embedded Systems & Robotics
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" alt="Embedded systems and robotics"/>
+
+<br><br>
+
+### 🗄️ Database Management
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Database technologies"/>
+
+<br><br>
+
+### 🛠️ Frameworks & Development Tools
+
+<img src="https://skillicons.dev/icons?i=flask,firebase,git,github,vscode" alt="Frameworks and development tools"/>
+
+<br><br>
+
+### 🚀 AI-Powered Development
+
+<img src="https://img.shields.io/badge/Antigravity-AI%20Development-black?style=for-the-badge" alt="Antigravity AI development"/>
+<img src="https://img.shields.io/badge/OpenAI-GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT API"/>
 
 </div>
 
