@@ -343,30 +343,80 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 ---
 
-## 📊 GitHub Analytics
+
+<!-- =========================================================
+     IMXD — PREMIUM GITHUB ANALYTICS
+========================================================= -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=1800" alt="GitHub Statistics" width="495"/>
+  <!-- Section Header -->
+  <h2>📊 GitHub Analytics</h2>
 
-<br/>
+  <p>
+    <i>Code. Create. Contribute. Repeat.</i>
+  </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=1800" alt="Top Languages" width="350"/>
+  <br>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&cache_seconds=1800"
+    alt="Imxd GitHub Statistics"
+    width="495"
+  />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=1800"
+    alt="Imxd Top Languages"
+    width="350"
+  />
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/imxd12">
+
+    <img
+      src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&type=svg"
+      alt="Imxd GitHub Streak"
+      width="495"
+    />
+
+  </a>
+
+  <br><br>
+
+  <!-- Contribution Activity -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=imxd12&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="Imxd Contribution Activity"
+    width="95%"
+  />
+
+  <br><br>
+
+  <!-- Profile Link -->
+  <a href="https://github.com/imxd12">
+
+    <img
+      src="https://img.shields.io/badge/Explore%20My%20GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0D1117"
+      alt="Explore GitHub"
+    />
+
+  </a>
+
+  <br><br>
+
+  <p>
+    <i>✨ Building innovative projects with code, AI & technology.</i>
+  </p>
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/imxd12">
-
-<img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily&type=svg" alt="GitHub Streak Stats" width="495"/>
-
-</a>
-
-</div>
-
-
-</div>
 
 ---
 
