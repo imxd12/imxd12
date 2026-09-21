@@ -42,8 +42,6 @@
 
 ## `WELCOME TO MY DIGITAL WORKSPACE`
 
-<sub>AI • ROBOTICS • AUTOMATION • CODER</sub>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=900&color=64748B&center=true&vCenter=true&width=650&height=40&lines=THINK+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+EVOLVE;CODE+MEETS+ENGINEERING;FROM+IDEAS+TO+INTELLIGENT+SOLUTIONS" alt="Workspace animation"/>
