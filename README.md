@@ -343,80 +343,43 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 ---
 
-
-<!-- =========================================================
-     IMXD — PREMIUM GITHUB ANALYTICS
-========================================================= -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <!-- Section Header -->
-  <h2>📊 GitHub Analytics</h2>
+<!-- GitHub Profile Overview -->
+<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=300" alt="GitHub Statistics" width="495"/>
 
-  <p>
-    <i>Code. Create. Contribute. Repeat.</i>
-  </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=300" alt="Top Programming Languages" width="350"/>
 
-  <br>
+<br/><br/>
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&cache_seconds=1800"
-    alt="Imxd GitHub Statistics"
-    width="495"
-  />
+<!-- GitHub Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily" alt="GitHub Contribution Streak" width="495"/>
 
-  <br><br>
+<br/><br/>
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&cache_seconds=1800"
-    alt="Imxd Top Languages"
-    width="350"
-  />
+<!-- GitHub Profile Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=imxd12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies" width="800"/>
 
-  <br><br>
+<br/><br/>
 
-  <!-- GitHub Streak -->
-  <a href="https://github.com/imxd12">
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imxd12&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=IMXD%27s%20Contribution%20Activity" alt="GitHub Contribution Activity Graph" width="95%"/>
 
-    <img
-      src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&type=svg"
-      alt="Imxd GitHub Streak"
-      width="495"
-    />
+<br/><br/>
 
-  </a>
+<!-- GitHub Contribution Snake -->
+<img src="https://raw.githubusercontent.com/imxd12/imxd12/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="95%"/>
 
-  <br><br>
+<br/><br/>
 
-  <!-- Contribution Activity -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=imxd12&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="Imxd Contribution Activity"
-    width="95%"
-  />
+<!-- Profile Views and Followers -->
+<img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
 
-  <br><br>
-
-  <!-- Profile Link -->
-  <a href="https://github.com/imxd12">
-
-    <img
-      src="https://img.shields.io/badge/Explore%20My%20GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=0D1117"
-      alt="Explore GitHub"
-    />
-
-  </a>
-
-  <br><br>
-
-  <p>
-    <i>✨ Building innovative projects with code, AI & technology.</i>
-  </p>
+<img src="https://img.shields.io/github/followers/imxd12?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117" alt="GitHub Followers"/>
 
 </div>
-
 
 ---
 
