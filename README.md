@@ -279,25 +279,20 @@ Palash Mitra AI is my featured project section. Add the verified project descrip
 ### Project Overview
 
 Palash Mitra is an AI-powered educational platform designed to break language barriers in rural and tribal schools.
-It translates Hindi lessons into tribal languages such as Ho, Mundari, and Santhali, providing:
+It translates Hindi lessons into tribal languages such as Ho, Mundari, and Santhali.
+
+
+### Key Features
+
 - Real-time voice translation
 - Bilingual learning materials
 - Offline functionality
 - Native-language audio support
 - Interactive educational content
 
-### Key Features
-
-- Add the primary AI feature.
-- Add the main user-facing functionality.
-- Add supported languages or technologies, if applicable.
-- Add the project's unique value.
-
 ### Technology
 
-`Python` `AI` `Machine Learning`
-
-> Only retain technologies actually used in your project.
+Python | SQLite | JSON | NLP | Speech-to-Text | Text-to-Speech | AI Translation | Offline Storage | Streamlit/Flask | HTML | CSS | JavaScript | Git
 
 <div align="center">
 
