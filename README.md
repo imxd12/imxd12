@@ -70,7 +70,7 @@ IDENTITY
 Name       : Imad Khan
 Handle     : IMXD
 Domain     : AI • Robotics • Automation
-Role       : Engineering Student & Coder
+Role       : Engineering Student
 Focus      : Intelligent Systems
 Mindset    : Build • Learn • Improve
 ────────────────────────────────────
@@ -84,7 +84,7 @@ Mindset    : Build • Learn • Improve
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
 ### 🤖
 
@@ -93,7 +93,7 @@ Mindset    : Build • Learn • Improve
 <sub>Intelligent applications</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
 ### ⚙️
 
@@ -102,7 +102,7 @@ Mindset    : Build • Learn • Improve
 <sub>Automation systems</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
 ### 💻
 
@@ -111,13 +111,60 @@ Mindset    : Build • Learn • Improve
 <sub>Software development</sub>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
 ### 🔌
 
 **EMBEDDED**
 
 <sub>Connected systems</sub>
+
+</td>
+<td align="center" width="16.66%">
+
+### 🏭
+
+**PLC / SCADA**
+
+<sub>Industrial automation</sub>
+
+</td>
+<td align="center" width="16.66%">
+
+### 🔄
+
+**RPA**
+
+<sub>Process automation</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 🗄️
+
+**DBMS**
+
+<sub>Database management</sub>
+
+</td>
+<td align="center" colspan="2">
+
+### 🌐
+
+**WEB DEV**
+
+<sub>Modern web applications</sub>
+
+</td>
+<td align="center" colspan="2">
+
+### 🧠
+
+**PROBLEM SOLVER**
+
+<sub>Innovative solutions</sub>
 
 </td>
 </tr>
