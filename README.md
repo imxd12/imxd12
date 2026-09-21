@@ -345,17 +345,18 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 ## 📊 GITHUB ACTIVITY
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" width="100%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Statistics" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" width="100%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
