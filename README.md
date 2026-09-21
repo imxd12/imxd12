@@ -7,7 +7,7 @@
 
 <!-- PREMIUM HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e40af,100:06b6d4&height=280&section=header&text=IMXD&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20ROBOTICS%20%7C%20AUTOMATION&descAlignY=61&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e40af,100:06b6d4&height=280&section=header&text=IMAD KHAN&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20ROBOTICS%20%7C%20AUTOMATION&descAlignY=61&descSize=17" width="100%"/>
 
 <br>
 
