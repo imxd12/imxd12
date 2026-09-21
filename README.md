@@ -14,7 +14,24 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&height=45&lines=Engineering+Intelligence+Into+Reality;Building+Ideas+Into+Working+Systems;AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AUTOMATION+%E2%80%A2+CODER" alt="Professional identity"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&height=80&lines=Engineering+Intelligence+Into+Reality;AI+%E2%80%A2+ROBOTICS+%E2%80%A2+AUTOMATION+%E2%80%A2+CODER;Electrical+%26+Computer+Engineering;Building+Intelligent+Systems;Code+%2B+Hardware+%2B+Innovation;Turning+Ideas+Into+Working+Solutions;Explore.+Build.+Automate.+Evolve." alt="IMAD KHAN animated identity"/>
+
+<br>
+
+<sub>
+  <b>AI • ROBOTICS • AUTOMATION • CODER</b>
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS-0f172a?style=flat-square&labelColor=020617&color=38BDF8"/>
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%26%20EVOLVE-0f172a?style=flat-square&labelColor=020617&color=06B6D4"/>
+
+</div>
+
 
 <br><br>
 
