@@ -1,44 +1,33 @@
-
 <!-- =========================================================
      IMAD KHAN | IMXD
-     PREMIUM AI • ROBOTICS • AUTOMATION • CODER PROFILE
+     MATRIX PROTOCOL • AI • ROBOTICS • AUTOMATION
 ========================================================= -->
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════
-     HERO SECTION
-═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,75:1e3a8a,100:06b6d4&height=280&section=header&text=IMAD%20KHAN&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20ROBOTICS%20%7C%20AUTOMATION%20%7C%20CODER&descAlignY=61&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,75:003300,100:00ff41&height=280&section=header&text=IMAD%20KHAN&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=%3C%20AI%20%2F%2F%20ROBOTICS%20%2F%2F%20AUTOMATION%20%2F%2F%20CODER%20%3E&descAlignY=61&descSize=15&fontFamily=JetBrains+Mono" width="100%"/>
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=45&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED+%3A+IMXD;%3E+LOADING+MODULES%3A+AI+%7C+ROBOTICS+%7C+CODE;%3E+COMPILING+IDEAS+INTO+EXECUTION;%3E+RUNNING+ON+CURIOSITY.EXE;%3E+STATUS%3A+ONLINE+%7C+BUILDING+%7C+EVOLVING" alt="Terminal boot sequence"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&height=45&lines=Turning+Curiosity+Into+Creation;Building+With+Purpose+And+Precision;Code+That+Thinks%2C+Systems+That+Move;Learning+Today%2C+Engineering+Tomorrow;Ideas+Are+The+Beginning%2C+Execution+Is+The+Difference;Exploring+Technology+Beyond+The+Ordinary;Designing+Solutions%2C+One+Iteration+At+A+Time;Think+Different+%7C+Build+Better" alt="Professional identity"/>
-
-<br>
-
-</div>
-
-<br>
+<br><br>
 
 <a href="https://github.com/imxd12">
-<img src="https://img.shields.io/badge/GITHUB-IMXD-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=1e293b" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-IMXD-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=000000" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/imad-khan-37aa9630a">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617&color=1e40af" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=000000" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:imadak999@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617&color=0891b2" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=000000" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=imxd12&label=PROFILE%20VISITORS&color=06b6d4&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=imxd12&label=CONNECTIONS+TRACED&color=00ff41&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -46,39 +35,36 @@
 
 <div align="center">
 
-## `WELCOME TO MY DIGITAL WORKSPACE`
+## `[ ROOT@IMXD:~$ WHOAMI ]`
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=900&color=64748B&center=true&vCenter=true&width=650&height=40&lines=THINK+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+EVOLVE;CODE+MEETS+ENGINEERING;FROM+IDEAS+TO+INTELLIGENT+SOLUTIONS" alt="Workspace animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=900&color=00CC33&center=true&vCenter=true&width=650&height=40&lines=DECRYPTING+PROFILE...;IDENTITY+CONFIRMED;WELCOME+TO+THE+MAINFRAME" alt="Decrypt animation"/>
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## ▓▓ ABOUT.EXE
 
-Hi, I'm **Imad Khan**, known as **IMXD**.
-
-I'm an Electrical & Computer Engineering student with a background in Automation & Robotics. I explore the intersection of artificial intelligence, software development, embedded systems, and engineering.
-
-I enjoy creating practical solutions, learning new technologies, and transforming ideas into working projects.
-
-```text
-IDENTITY
-────────────────────────────────────
-Name       : Imad Khan
-Handle     : IMXD
-Domain     : AI • Robotics • Automation
-Role       : Engineering Student
-Focus      : Intelligent Systems
-Mindset    : Build • Learn • Improve
-────────────────────────────────────
 ```
+$ cat about.txt
+──────────────────────────────────────────────
+> Name        : Imad Khan
+> Handle      : IMXD
+> Class       : Electrical & Computer Engineer
+> Specialty   : Automation & Robotics
+> Domain      : AI // Embedded Systems // Code
+> Mission     : Turn ideas into working systems
+> Mindset     : Build → Test → Break → Rebuild
+──────────────────────────────────────────────
+[STATUS] : LEARNING | BUILDING | ITERATING
+[UPTIME] : ALWAYS ONLINE
+```
+
+I'm an Electrical & Computer Engineering student who lives at the intersection of AI, robotics, embedded systems, and software. I break things to understand them, then rebuild them better.
 
 ---
 
-## ⚡ CORE FOCUS
+## ▓▓ CORE.MODULES
 
 <div align="center">
 
@@ -87,55 +73,43 @@ Mindset    : Build • Learn • Improve
 <td align="center" width="16.66%">
 
 ### 🤖
-
 **AI**
-
-<sub>Intelligent applications</sub>
+<sub>`neural_systems.py`</sub>
 
 </td>
 <td align="center" width="16.66%">
 
 ### ⚙️
-
 **ROBOTICS**
-
-<sub>Automation systems</sub>
+<sub>`autonomy.sys`</sub>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 💻
-
 **CODER**
-
-<sub>Software development</sub>
+<sub>`compile --run`</sub>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 🔌
-
 **EMBEDDED**
-
-<sub>Connected systems</sub>
+<sub>`firmware.hex`</sub>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 🏭
-
-**PLC / SCADA**
-
-<sub>Industrial automation</sub>
+**PLC/SCADA**
+<sub>`industrial.ctl`</sub>
 
 </td>
 <td align="center" width="16.66%">
 
 ### 🔄
-
 **RPA**
-
-<sub>Process automation</sub>
+<sub>`bot_process.exe`</sub>
 
 </td>
 </tr>
@@ -143,28 +117,22 @@ Mindset    : Build • Learn • Improve
 <td align="center" colspan="2">
 
 ### 🗄️
-
 **DBMS**
-
-<sub>Database management</sub>
+<sub>`SELECT * FROM data`</sub>
 
 </td>
 <td align="center" colspan="2">
 
 ### 🌐
-
 **WEB DEV**
-
-<sub>Modern web applications</sub>
+<sub>`deploy --prod`</sub>
 
 </td>
 <td align="center" colspan="2">
 
 ### 🧠
-
 **PROBLEM SOLVER**
-
-<sub>Innovative solutions</sub>
+<sub>`while(bug){fix();}`</sub>
 
 </td>
 </tr>
@@ -174,189 +142,186 @@ Mindset    : Build • Learn • Improve
 
 ---
 
-## 🧠 TECH STACK
+## ▓▓ TECH.STACK
 
 <div align="center">
 
-### 💻 Programming Languages
+### `> LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Programming languages"/>
-
-<br><br>
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI and computer vision"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Programming languages"/>
 
 <br><br>
 
-### 🌐 Web Development
+### `> AI // MACHINE LEARNING // VISION`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" alt="Web development technologies"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and computer vision"/>
 
 <br><br>
 
-### ⚙️ RPA & Industrial Automation
+### `> WEB DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=python" alt="RPA and automation"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark" alt="Web development technologies"/>
+
+<br><br>
+
+### `> INDUSTRIAL AUTOMATION // RPA`
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="RPA and automation"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PLC-Industrial%20Control-orange?style=for-the-badge" alt="PLC"/>
-<img src="https://img.shields.io/badge/SCADA-Industrial%20Monitoring-blue?style=for-the-badge" alt="SCADA"/>
-<img src="https://img.shields.io/badge/RPA-Process%20Automation-purple?style=for-the-badge" alt="RPA"/>
+<img src="https://img.shields.io/badge/PLC-INDUSTRIAL%20CONTROL-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/SCADA-INDUSTRIAL%20MONITORING-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/RPA-PROCESS%20AUTOMATION-00FF41?style=for-the-badge&labelColor=000000"/>
 
 <br><br>
 
-### 🔌 Embedded Systems & Robotics
+### `> EMBEDDED SYSTEMS // ROBOTICS`
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32" alt="Embedded systems and robotics"/>
-
-<br><br>
-
-### 🗄️ Database Management
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32&theme=dark" alt="Embedded systems and robotics"/>
 
 <br><br>
 
-### 🛠️ Frameworks & Development Tools
+### `> DATABASE MANAGEMENT`
 
-<img src="https://skillicons.dev/icons?i=flask,firebase,git,github,vscode" alt="Frameworks and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark" alt="Database technologies"/>
 
 <br><br>
 
-### 🚀 AI-Powered Development
+### `> FRAMEWORKS & DEV TOOLS`
 
-<img src="https://img.shields.io/badge/Antigravity-AI%20Development-black?style=for-the-badge" alt="Antigravity AI development"/>
-<img src="https://img.shields.io/badge/OpenAI-GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT API"/>
+<img src="https://skillicons.dev/icons?i=flask,firebase,git,github,vscode&theme=dark" alt="Frameworks and development tools"/>
+
+<br><br>
+
+### `> AI-POWERED DEVELOPMENT`
+
+<img src="https://img.shields.io/badge/ANTIGRAVITY-AI%20DEVELOPMENT-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/OPENAI-GPT%20API-00FF41?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=000000"/>
 
 </div>
 
-### Key Skills
+### `> KEY SKILLS`
 
-- Python & C++
-- JavaScript, HTML & CSS
-- AI and Machine Learning fundamentals
-- Computer Vision
-- Arduino, ESP8266 & ESP32
-- Raspberry Pi and sensor integration
-- Git & GitHub
-- PLC / SCADA Programming
+```diff
++ Python & C++
++ JavaScript, HTML & CSS
++ AI and Machine Learning fundamentals
++ Computer Vision
++ Arduino, ESP8266 & ESP32
++ Raspberry Pi and sensor integration
++ Git & GitHub
++ PLC / SCADA Programming
+```
 
 ---
 
-## 🚀 FEATURED PROJECT
+## ▓▓ FEATURED.PAYLOAD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,50:0f172a,100:164e63&height=110&section=header&text=PALASH%20MITRA%20AI&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000000,50:001a00,100:00ff41&height=110&section=header&text=PALASH%20MITRA%20AI&fontSize=28&fontColor=00FF41&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/PROJECT-AI%20APPLICATION-38BDF8?style=for-the-badge&labelColor=020617" alt="AI project"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-06b6d4?style=for-the-badge&labelColor=020617" alt="Project status"/>
+<img src="https://img.shields.io/badge/PROJECT-AI%20APPLICATION-00FF41?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00FF41?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
-### `PALASH MITRA AI`
+### `> PALASH_MITRA_AI.run()`
 
 **An AI-focused project by IMXD.**
 
-Palash Mitra AI is my featured project section. Add the verified project description, purpose, and technology details below to make the profile accurately represent the application.
+```
+$ ./palash_mitra_ai --info
+──────────────────────────────────────────────
+> Name        : Palash Mitra AI
+> Category    : Artificial Intelligence
+> Developer   : IMAD KHAN — IMXD & TEAM
+> Status      : [ UPDATE WITH ACTUAL STATUS ]
+──────────────────────────────────────────────
+```
 
-<div align="center">
+**Mission brief:** Palash Mitra is an AI-powered educational platform designed to break language barriers in rural and tribal schools. It translates Hindi lessons into tribal languages such as Ho, Mundari, and Santhali.
 
-| Project | Details |
-| :--- | :--- |
-| Name | Palash Mitra AI |
-| Category | Artificial Intelligence |
-| Developer | IMAD KHAN — IMXD & TEAM |
-| Status | Update with actual status |
+### `> KEY_FEATURES[]`
 
-</div>
+```diff
++ Real-time voice translation
++ Bilingual learning materials
++ Offline functionality
++ Native-language audio support
++ Interactive educational content
+```
 
-### Project Overview
+### `> TECH_STACK[]`
 
-Palash Mitra is an AI-powered educational platform designed to break language barriers in rural and tribal schools.
-It translates Hindi lessons into tribal languages such as Ho, Mundari, and Santhali.
-
-
-### Key Features
-
-- Real-time voice translation
-- Bilingual learning materials
-- Offline functionality
-- Native-language audio support
-- Interactive educational content
-
-### Technology
-
-Python | SQLite | JSON | NLP | Speech-to-Text | Text-to-Speech | AI Translation | Offline Storage | Streamlit/Flask | HTML | CSS | JavaScript | Git
+`Python` `SQLite` `JSON` `NLP` `Speech-to-Text` `Text-to-Speech` `AI Translation` `Offline Storage` `Streamlit/Flask` `HTML` `CSS` `JavaScript` `Git`
 
 <div align="center">
 
 <a href="https://github.com/imxd12">
-<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="View GitHub"/>
 </a>
 
 </div>
 
 ---
 
-## 🧪 CURRENTLY.EXPLORING
+## ▓▓ CURRENTLY.EXPLORING
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=ARTIFICIAL+INTELLIGENCE;COMPUTER+VISION;EMBEDDED+SYSTEMS;SOFTWARE+ENGINEERING;ROBOTICS+%26+AUTOMATION" alt="Learning areas"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&height=40&lines=%3E+SCANNING+FOR+NEW+KNOWLEDGE...;ARTIFICIAL+INTELLIGENCE;COMPUTER+VISION;EMBEDDED+SYSTEMS;SOFTWARE+ENGINEERING;ROBOTICS+%26+AUTOMATION" alt="Learning areas"/>
 
 </div>
 
 ```text
-[ SYSTEM / LEARNING ]
-
+[ SYSTEM / LEARNING_MODULE ]
+──────────────────────────────────────────────
 > AI & Intelligent Applications
 > Computer Vision
 > Embedded Systems
 > Software Development
 > Robotics & Automation
-
+──────────────────────────────────────────────
 STATUS: LEARNING • BUILDING • ITERATING
 ```
 
 ---
 
-## 🎯 ENGINEERING MINDSET
+## ▓▓ ENGINEERING.PROTOCOL
 
 <div align="center">
 
 | Principle | Approach |
 | :--- | :--- |
-| Learn | Explore new technologies |
-| Build | Create practical solutions |
-| Test | Validate and improve |
-| Evolve | Keep growing |
+| `learn()` | Explore new technologies |
+| `build()` | Create practical solutions |
+| `test()` | Validate and improve |
+| `evolve()` | Keep growing |
 
 </div>
 
-> Great projects start with curiosity and improve through consistent effort.
+> `// Great projects start with curiosity and improve through consistent effort.`
 
 ---
 
-## 📊 GitHub Analytics
+## ▓▓ SYSTEM.ANALYTICS
 
 <div align="center">
 
-<!-- GitHub Contribution Streak -->
-<img src="https://streak-stats.demolab.com?user=imxd12&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CBD5E1&mode=daily" alt="GitHub Contribution Streak" width="495"/>
+<img src="https://streak-stats.demolab.com?user=imxd12&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00CC33&mode=daily" alt="GitHub Contribution Streak" width="495"/>
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imxd12&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41&hide_border=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxd12&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=00FF41&hide_border=false" alt="Top Languages" width="38%"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION FLOW
+## ▓▓ CONTRIBUTION.MATRIX
 
 <div align="center">
 
@@ -366,20 +331,20 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 ---
 
-## 🔗 CONNECT WITH ME
+## ▓▓ ESTABLISH.CONNECTION
 
 <div align="center">
 
 <a href="https://github.com/imxd12">
-<img src="https://img.shields.io/badge/GITHUB-IMXD-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-IMXD-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
 <a href="https://www.linkedin.com/in/imad-khan-37aa9630a">
-<img src="https://img.shields.io/badge/LINKEDIN-IMAD%20KHAN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-IMAD%20KHAN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="mailto:imadak999@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
 </div>
@@ -388,12 +353,12 @@ STATUS: LEARNING • BUILDING • ITERATING
 
 <div align="center">
 
-## `BUILD • LEARN • AUTOMATE • INNOVATE`
+## `[ BUILD // LEARN // AUTOMATE // INNOVATE ]`
 
 <sub>IMXD — Engineering intelligence into reality.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0f172a,100:020617&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=140&section=footer" width="100%"/>
 
 </div>
